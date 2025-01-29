@@ -1,6 +1,7 @@
 # ☕ Coffee Shop Sales Dashboard
 
 Welcome to the **Coffee Shop Sales Dashboard**! This project provides a comprehensive analysis of sales data from the famous coffee shop dataset allowing us to visualize key metrics and consumer patterns. 
+Heres the link to the live dashboard : https://app.powerbi.com/view?r=eyJrIjoiZjBhNDA1MTEtOThjOS00NTEzLTgwNjgtZjgwN2IzNzc3NGEyIiwidCI6IjAzNWEyYzY4LTc2YjQtNGViYS1hMTVhLWNiYmNhOTY4NjhjZCJ9
 
 ## 📊 Features
 
